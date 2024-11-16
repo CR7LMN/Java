@@ -1,4 +1,4 @@
-class Main {
+public class Main {
     public static void main(String[] args) {
         String firstName = "Cristiano Ronaldo ";
         String lastName = "Lionel Messi";
